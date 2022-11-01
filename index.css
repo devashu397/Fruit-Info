@@ -1,0 +1,45 @@
+body {
+  background-color: #ffb9b9;
+  font-family: "Ubuntu", sans-serif;
+}
+
+h1.title {
+  padding-top: 25px;
+  text-align: center;
+  color: #ff884b;
+}
+
+div.imgdiv {
+  padding-top: 10px;
+  text-align: center;
+}
+
+h3.info {
+  padding-top: 10px;
+  text-align: center;
+  color: #ff884b;
+}
+
+div.inputdiv {
+  padding-top: 10px;
+  text-align: center;
+}
+
+input {
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  height: 25px;
+  width: 200px;
+}
+
+div.buttondiv {
+  padding-top: 10px;
+  text-align: center;
+}
+
+button {
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  height: 25px;
+  width: 200px;
+}
